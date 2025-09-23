@@ -1,10 +1,10 @@
 package lvl1_exercise_01;
 
-import lvl1_exercise_01.classes.Iniciar;
+import lvl1_exercise_01.classes.Iniciate;
 
 public class Lvl1_Ex01_Main {
 	public static void main(String[] args) {
-		Iniciar inici = new Iniciar();
-		inici.iniciar_exercici();
+		Iniciate start = new Iniciate();
+		start.iniciate_exercici();
 		}
 }
