@@ -18,6 +18,6 @@ public class Restaurant {
 
 	@Override
 	public String toString() {
-		return "Restaurant's name : " + this.name + "  score : " + this.score;
+		return "Restaurant's name : " + this.name + ",  score : " + this.score;
 	}
 }
