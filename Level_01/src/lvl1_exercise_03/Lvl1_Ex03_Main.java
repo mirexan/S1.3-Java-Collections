@@ -1,4 +1,7 @@
 package lvl1_exercise_03;
+
+import lvl1_exercise_03.classes.Iniciate_Ex03;
+
 /*Donat el fitxer countrties.txt (revisa l'apartat recursos) que conté països
 i capitals. El programa ha de llegir el fitxer i guardar les dades en un
 HashMap<String, String>. El programa demana el nom de l’usuari/ària, i després ha de
@@ -11,6 +14,8 @@ la seva puntuació.
 * */
 public class Lvl1_Ex03_Main {
 	public static void main(String[] args) {
+		Iniciate_Ex03 iniciator = new Iniciate_Ex03();
+		iniciator.start();
 
 	}
 }
