@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Iniciator {
+public class Initiator {
 	public void start(Set<Restaurant> restaurants){
 		Scanner scan = new Scanner(System.in);
 		displayMenu(restaurants, scan);
