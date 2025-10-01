@@ -2,8 +2,8 @@
 
 ## 📄 **Description**
 
-This project has two exercises about exceptions and error management. In which i've learned to throw an
-own exception class and to make a try catch in uncertain situations.
+This project has five exercises about collections. In which i've learned to use differents kinds of collections
+and  methods related to them.
 
 ### **Level 01**
 
